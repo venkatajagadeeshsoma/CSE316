@@ -45,6 +45,7 @@ int main()
 		
 	}
 	printf("\n Average waiting time is %f sec.",avg);
+	printf("one");
 	getch();
 	return 0;
 }
